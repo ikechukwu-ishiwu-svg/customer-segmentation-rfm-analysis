@@ -52,9 +52,11 @@ The goal is to help businesses **increase revenue, improve customer retention, a
 
 ## Dashboard Preview
 
-![RFM Dashboard](images/online_retail_rfm_segmentation_dashboard_preview.png)  
-![Customer Segments](images/segment_distribution.png)  
-![Revenue by Segment](images/revenue_by_segment.png)  
+![RFM Dashboard](data/sql/python/dashboard/images/online_retail_rfm_segmentation_dashboard_preview.png)  
+
+![Customer Segments](data/sql/python/dashboard/images/segment_distribution.png) 
+
+![Revenue by Segment](data/sql/python/dashboard/images/revenue_by_segment.png)  
 
 
 
